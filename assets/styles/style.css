@@ -1,11 +1,11 @@
 body {
-	background-image: url("../images/bg.jpg");
+	background-image: url("../images/chair.jpg");
 	background-size: cover;
 	back
 	font-family: 'Karla', sans-serif;
 }
 h1 {
-color: black;
+color: white;
 font-size: 30px;
 font-weight: normal;
 margin-bottom: 0;
@@ -19,6 +19,8 @@ h2 {
 	color: black;
 	font-size: 14px;
 	text-align: center;
+	background: rgba(0,0,0,0.5);
+	align-content: center;
 }
 .me{
 	height: 150px;
