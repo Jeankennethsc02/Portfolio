@@ -1,7 +1,7 @@
 body {
 	background-image: url("../images/chair.jpg");
 	background-size: cover;
-	back
+	background-repeat: no repeat;
 	font-family: 'Karla', sans-serif;
 }
 h1 {
